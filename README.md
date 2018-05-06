@@ -24,5 +24,4 @@ During this workshop, you will learn how to use Flask, a powerful web framework 
 - Smoother UI experience
 - CSS styling of pages
 
-Link to powerpoint: 
 Link to completed app: https://github.com/ryanluu12345/Flask-To-Do-Finished
