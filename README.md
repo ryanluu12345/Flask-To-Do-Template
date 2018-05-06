@@ -3,7 +3,7 @@
 # Introduction
 During this workshop, you will learn how to use Flask, a powerful web framework built in Python. This framework is used by companies such as LinkedIn and Pinterest to power some of their services. During this tutorial, you will learn how to make a todo app that features user signup and login.
 
-#Prerequisites
+# Prerequisites
 - Install Python
 - Install Pip
 - pip install flask
