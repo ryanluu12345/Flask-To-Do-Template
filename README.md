@@ -6,7 +6,7 @@ During this workshop, you will learn how to use Flask, a powerful web framework 
 # Prerequisites
 - Install Python
 - Install Pip
-- Run "pip install flask"
+- Run "pip install flask" in the command line
 
 # Key Learning Points
 1. Defining routes and navigating between routes
